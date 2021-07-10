@@ -1,7 +1,7 @@
 window.onload = function() {
     document.write("Testing")
     document.write("<br>")
-    document.write("Sebastian Sexy")
+    document.write("Sebastian NOT Sexy")
     document.write("<br>")
     document.write("I know this is annoying, having this replace the whole entire website with this text.")
     document.write("<br>")
